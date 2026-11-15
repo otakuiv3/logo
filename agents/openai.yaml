@@ -1,0 +1,4 @@
+interface:
+  display_name: "بطاقة لوغو"
+  short_description: "بطاقة رصاصية عالية الدقة لكل لوغو، بالاسم الإنجليزي"
+  default_prompt: "استخدم $logo وسوّيلي بطاقة Discord بنفس ستايل بطاقات المتجر."
