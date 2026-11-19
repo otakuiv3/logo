@@ -1,4 +1,4 @@
 interface:
   display_name: "لوكو ملون"
-  short_description: "شعارات المنصات بألوانها في قالب داكن بموضع مرفوع"
+  short_description: "شعارك بألوانه ونسبه الأصلية وبمركز ستيم وحجمه الظاهر تقريباً"
   default_prompt: "استخدم $logo-mulawan لتصميم لوكو ملون لدسكورد."
